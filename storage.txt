@@ -1,0 +1,6 @@
+1;80;Wawel;Najsmaczniejsze czekolady na œwiecie
+3;20;XamPol;Batoniki czekoladowe
+2;65;Milka;Niesamowite cukierki
+1;70;Wedel;Takich czekolad nie ma nikt
+2;30;Smakuœ;Cukierki na ka¿d¹ okazjê
+3;40;Wawel;Batoniki na 102
